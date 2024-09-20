@@ -1,0 +1,20 @@
+# Arquivos de ambiente virtual
+venv/
+tasks/
+
+# Arquivos de configuração e chaves secretas
+.env
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos de cache e logs
+*.log
+__pycache__/
+db.sqlite3
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do PyCharm
+.idea/
